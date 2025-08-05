@@ -1,0 +1,14 @@
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\bin\Debug\net8.0\03 Heranca_Construtores.exe
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\bin\Debug\net8.0\03 Heranca_Construtores.deps.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\bin\Debug\net8.0\03 Heranca_Construtores.runtimeconfig.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\bin\Debug\net8.0\03 Heranca_Construtores.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\bin\Debug\net8.0\03 Heranca_Construtores.pdb
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\obj\Debug\net8.0\03 Heranca_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\obj\Debug\net8.0\03 Heranca_Construtores.AssemblyInfoInputs.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\obj\Debug\net8.0\03 Heranca_Construtores.AssemblyInfo.cs
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\obj\Debug\net8.0\03 Heranca_Construtores.csproj.CoreCompileInputs.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\obj\Debug\net8.0\03 Heranca_Construtores.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\obj\Debug\net8.0\refint\03 Heranca_Construtores.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\obj\Debug\net8.0\03 Heranca_Construtores.pdb
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\obj\Debug\net8.0\03 Heranca_Construtores.genruntimeconfig.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\03 Heranca_Construtores\obj\Debug\net8.0\ref\03 Heranca_Construtores.dll

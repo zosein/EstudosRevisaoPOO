@@ -1,0 +1,14 @@
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\bin\Debug\net8.0\02 Heranca_ModificadoresDeAcesso.exe
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\bin\Debug\net8.0\02 Heranca_ModificadoresDeAcesso.deps.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\bin\Debug\net8.0\02 Heranca_ModificadoresDeAcesso.runtimeconfig.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\bin\Debug\net8.0\02 Heranca_ModificadoresDeAcesso.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\bin\Debug\net8.0\02 Heranca_ModificadoresDeAcesso.pdb
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\obj\Debug\net8.0\02 Heranca_ModificadoresDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\obj\Debug\net8.0\02 Heranca_ModificadoresDeAcesso.AssemblyInfoInputs.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\obj\Debug\net8.0\02 Heranca_ModificadoresDeAcesso.AssemblyInfo.cs
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\obj\Debug\net8.0\02 Heranca_ModificadoresDeAcesso.csproj.CoreCompileInputs.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\obj\Debug\net8.0\02 Heranca_ModificadoresDeAcesso.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\obj\Debug\net8.0\refint\02 Heranca_ModificadoresDeAcesso.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\obj\Debug\net8.0\02 Heranca_ModificadoresDeAcesso.pdb
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\obj\Debug\net8.0\02 Heranca_ModificadoresDeAcesso.genruntimeconfig.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\02 Heranca_ModificadoresDeAcesso\obj\Debug\net8.0\ref\02 Heranca_ModificadoresDeAcesso.dll
