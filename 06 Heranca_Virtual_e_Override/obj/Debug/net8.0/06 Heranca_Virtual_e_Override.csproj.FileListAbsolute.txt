@@ -1,0 +1,15 @@
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\bin\Debug\net8.0\06 Heranca_Virtual_e_Override.exe
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\bin\Debug\net8.0\06 Heranca_Virtual_e_Override.deps.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\bin\Debug\net8.0\06 Heranca_Virtual_e_Override.runtimeconfig.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\bin\Debug\net8.0\06 Heranca_Virtual_e_Override.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\bin\Debug\net8.0\06 Heranca_Virtual_e_Override.pdb
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\obj\Debug\net8.0\06 Heranca_Virtual_e_Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\obj\Debug\net8.0\06 Heranca_Virtual_e_Override.AssemblyInfoInputs.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\obj\Debug\net8.0\06 Heranca_Virtual_e_Override.AssemblyInfo.cs
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\obj\Debug\net8.0\06 Heranca_Virtual_e_Override.csproj.CoreCompileInputs.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\obj\Debug\net8.0\06 Heranca_Virtual_e_Override.sourcelink.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\obj\Debug\net8.0\06 Heranca_Virtual_e_Override.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\obj\Debug\net8.0\refint\06 Heranca_Virtual_e_Override.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\obj\Debug\net8.0\06 Heranca_Virtual_e_Override.pdb
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\obj\Debug\net8.0\06 Heranca_Virtual_e_Override.genruntimeconfig.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\06 Heranca_Virtual_e_Override\obj\Debug\net8.0\ref\06 Heranca_Virtual_e_Override.dll

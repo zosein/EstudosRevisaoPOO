@@ -1,0 +1,15 @@
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\bin\Debug\net8.0\05 Heranca_e_new.exe
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\bin\Debug\net8.0\05 Heranca_e_new.deps.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\bin\Debug\net8.0\05 Heranca_e_new.runtimeconfig.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\bin\Debug\net8.0\05 Heranca_e_new.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\bin\Debug\net8.0\05 Heranca_e_new.pdb
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\obj\Debug\net8.0\05 Heranca_e_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\obj\Debug\net8.0\05 Heranca_e_new.AssemblyInfoInputs.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\obj\Debug\net8.0\05 Heranca_e_new.AssemblyInfo.cs
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\obj\Debug\net8.0\05 Heranca_e_new.csproj.CoreCompileInputs.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\obj\Debug\net8.0\05 Heranca_e_new.sourcelink.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\obj\Debug\net8.0\05 Heranca_e_new.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\obj\Debug\net8.0\refint\05 Heranca_e_new.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\obj\Debug\net8.0\05 Heranca_e_new.pdb
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\obj\Debug\net8.0\05 Heranca_e_new.genruntimeconfig.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\05 Heranca_e_new\obj\Debug\net8.0\ref\05 Heranca_e_new.dll
