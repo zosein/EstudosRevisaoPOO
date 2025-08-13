@@ -1,0 +1,15 @@
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\bin\Debug\net8.0\10.1 Exercicio_POO_Outro.exe
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\bin\Debug\net8.0\10.1 Exercicio_POO_Outro.deps.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\bin\Debug\net8.0\10.1 Exercicio_POO_Outro.runtimeconfig.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\bin\Debug\net8.0\10.1 Exercicio_POO_Outro.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\bin\Debug\net8.0\10.1 Exercicio_POO_Outro.pdb
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\obj\Debug\net8.0\10.1 Exercicio_POO_Outro.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\obj\Debug\net8.0\10.1 Exercicio_POO_Outro.AssemblyInfoInputs.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\obj\Debug\net8.0\10.1 Exercicio_POO_Outro.AssemblyInfo.cs
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\obj\Debug\net8.0\10.1 Exercicio_POO_Outro.csproj.CoreCompileInputs.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\obj\Debug\net8.0\10.1 Exercicio_POO_Outro.sourcelink.json
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\obj\Debug\net8.0\10.1 Exercicio_POO_Outro.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\obj\Debug\net8.0\refint\10.1 Exercicio_POO_Outro.dll
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\obj\Debug\net8.0\10.1 Exercicio_POO_Outro.pdb
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\obj\Debug\net8.0\10.1 Exercicio_POO_Outro.genruntimeconfig.cache
+C:\workspace\DotNET6 - Fundamentos -Macoratti\EstudosPOO\10.1 Exercicio_POO_Outro\obj\Debug\net8.0\ref\10.1 Exercicio_POO_Outro.dll
