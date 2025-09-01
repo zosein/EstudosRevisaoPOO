@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _18Exercicios;
+namespace _18Exercicios.Exercicio2;
 
 public class SuperLivroFotos : LivroFotos
 {

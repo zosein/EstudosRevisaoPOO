@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _18Exercicios;
+namespace _18Exercicios.Exercicio1;
 
 public interface IVeiculo
 {
