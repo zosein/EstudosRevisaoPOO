@@ -1,6 +1,7 @@
 ﻿using _18Exercicios.Exercicio1;
 using _18Exercicios.Exercicio2;
 using _18Exercicios.Exercicio3;
+using _18Exercicios.Exercicio4;
 
 //Exercicio1
 Carro carro = new Carro(0);
@@ -57,3 +58,29 @@ foreach (Pessoa p in pessoas)
         professor.Explicar();
     }
 }
+
+
+//Exercicio4
+Humano[] persons = new Humano[3];
+
+for (int i = 0; i < persons.Length; i++)
+{
+    Console.Write($"Informe o nome da pessoa {i + 1}: ");
+    string? nome = Console.ReadLine();
+    persons[i] = new Humano(nome!);
+
+}
+
+Console.WriteLine("\n==== Pessoas Registradas ====");
+
+foreach (Pessoa p in pessoas)
+{
+    Console.WriteLine(p.ToString());
+}
+
+Console.WriteLine("\nPressione qlqr tecla p/ sair...");
+
+//Exercicio5
+
+
+Console.ReadKey();
